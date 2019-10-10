@@ -1,0 +1,14 @@
+Introducción a la programación
+
+Existen un lenguaje formal en la cual existe un lexico (Palabras validas o reservadas)
+estas palabras son: do, for, if, else, int, float, etc.
+
+Si a == 7 entonces FinSi
+Para Java es.- if(a==7)[ ]
+Para Python es.- is a==7:
+
+1. GitHub Repositorio
+2 Git clone (url)
+3 Git add.
+4 Git commit -a -m"mensaje"
+5 Git Push 
